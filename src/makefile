@@ -1,5 +1,5 @@
 CC=clang++
-CFLAGS=-Wall -O3
+CFLAGS=-Wall -O3 -std=c++11
 PROG=run.exe
 ARGS=scores.txt
 
